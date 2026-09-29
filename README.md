@@ -6,6 +6,8 @@ URL Shortening Service built with Java and Spring Boot.
 
 https://github.com/Bakshiii09/url-shortener
 
+https://roadmap.sh/projects/url-shortening-service
+
 ## Requirements
 
 - Java 17 or later
