@@ -2,7 +2,7 @@
 
 URL Shortening Service built with Java and Spring Boot.
 
-## Project Page
+## Project URL
 
 https://github.com/Bakshiii09/url-shortener
 
